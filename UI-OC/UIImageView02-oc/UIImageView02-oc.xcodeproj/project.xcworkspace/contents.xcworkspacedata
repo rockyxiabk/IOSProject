@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/rocky/XcodePeoject/IOSProject/UIImageView02-oc/UIImageView02-oc/ChatBubble.h">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/rocky/XcodePeoject/IOSProject/UIImageView02-oc/UIImageView02-oc/ChatBubble.m">
+   </FileRef>
+   <FileRef
+      location = "self:UIImageView02-oc.xcodeproj">
+   </FileRef>
+</Workspace>
